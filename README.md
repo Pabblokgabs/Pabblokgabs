@@ -6,9 +6,9 @@ Hi there! 👋 I'm **Kgotso Masha**, a passionate Full Stack Developer with over
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on creating robust, scalable applications—from smooth front-end experiences to solid back-end architecture.
-- 🎨 I have a strong eye for design, animations, and micro-interactions that bring interfaces to life.
-- 📚 I'm a self-taught developer, constantly sharpening my skills and exploring new technologies.
+- 💻 Full Stack Developer focused on creating robust, scalable applications—from smooth front-end experiences to solid back-end architecture.  
+- 🎨 I have a strong eye for design, animations, and micro-interactions that bring interfaces to life.  
+- 📚 I'm a self-taught developer, constantly sharpening my skills and exploring new technologies.  
 - 🌍 Fluent in English.
 
 ---
@@ -17,21 +17,19 @@ Hi there! 👋 I'm **Kgotso Masha**, a passionate Full Stack Developer with over
 
 ### **Front-End & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,threejs,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,next,tailwind,threejs,figma&perline=8" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
 </p>
 
-- JavaScript  
-- TypeScript  
-- React  
-- **React Native**  
+- JavaScript / TypeScript  
+- React / React Native  
 - Next.js  
 - Tailwind CSS  
-- GSAP  
-- Framer Motion  
-- Three.js  
-- Zod  
-- React Hook Form  
+- GSAP / Framer Motion / Three.js  
+- **Zustand** (state management)  
+- **TanStack Query / React Query** (data fetching)  
+- **ShadCN UI** (component library)  
+- Zod / React Hook Form  
 - Axios  
 
 ---
@@ -41,25 +39,20 @@ Hi there! 👋 I'm **Kgotso Masha**, a passionate Full Stack Developer with over
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,postgres,firebase&perline=7" />
 </p>
 
-- Python  
-- Django  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Firebase  
-- PostgreSQL  
+- Python / Django  
+- Node.js / Express.js  
+- MongoDB / PostgreSQL / Firebase  
 
 ---
 
-### **Tools & Platforms**
+### **CI/CD & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,vercel,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,vercel&perline=7" />
 </p>
 
-- Git  
-- VS Code  
-- Docker  
-- Figma  
+- GitHub Actions / CI pipelines  
+- Docker (containerization)  
+- Vercel / Deployment automation  
 
 ---
 
@@ -80,11 +73,11 @@ Hi there! 👋 I'm **Kgotso Masha**, a passionate Full Stack Developer with over
 ## 🎯 What I’m Focused On
 
 - Building a personal brand through high-quality, visually impressive projects.  
-- Expanding my full-stack capabilities with deeper back-end and deployment knowledge.  
+- Expanding my full-stack capabilities with deeper back-end and deployment knowledge. 
 - Producing clean, maintainable code and scalable architecture for real-world applications.
 
 ---
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-Send%20Email-red?style=flat&logo=gmail&logoColor=white)](mailto:kgotsomasha1@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Send%20Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel&logoColor=white)](https://kgotso.vercel.app)
