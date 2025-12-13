@@ -81,3 +81,11 @@ Hi there! 👋 I'm **Kgotso Masha**, a passionate Full Stack Developer with over
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-Send%20Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel&logoColor=white)](https://kgotso.vercel.app)
+
+---
+
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabblokgabs&layout=compact&theme=tokyonight&hide_border=true"
+    height="250"
+  />
