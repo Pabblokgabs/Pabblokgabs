@@ -67,17 +67,6 @@ A comprehensive toolkit for building **modern, scalable, and production-ready ap
 
 ---
 
-## 📊 GitHub Stats
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabblokgabs&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-> 📌 *GitHub statistics reflect public repositories only.  
-> Most professional and client work lives in private, client-owned repositories.*
-
----
-
 ## 🧑‍💼 Client Work & Professional Experience
 
 - Built and maintained **production web and mobile applications**  
