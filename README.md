@@ -1,107 +1,50 @@
-# 💻 Kgotso Masha  
-### Full Stack Developer · Frontend-Focused Engineer · UI/UX-Driven
+💻 Kgotso Masha | Full Stack Developer & Frontend Engineer
 
-Hi, I’m **Kgotso Masha**, a Full Stack Developer with **3+ years of professional experience** building and maintaining **production-ready web and mobile applications**.
+Hi there! 👋 I’m **Kgotso Masha**, a frontend-focused Full Stack Developer with **over 2 years of experience** building and maintaining **production-ready web and mobile applications**. I specialize in creating clean, scalable user interfaces while confidently supporting backend features when needed.
 
-I specialize in crafting **high-quality frontend experiences** (web & mobile) backed by **reliable backend systems**, with a strong focus on **performance, scalability, and maintainability**. I regularly work with **private, client-owned repositories** and production environments.
+🚀 About Me:
 
----
+- 💻 Frontend-focused Full Stack Developer with strong experience in React, React Native, and Next.js  
+- 🎨 UI/UX-driven engineer who cares about clean design and smooth user experiences  
+- ⚙️ Experienced in building end-to-end applications used in real production environments  
+- 🌍 Comfortable working with remote teams and async workflows  
 
-## 🧠 Professional Summary
+🛠️ Skills & Technologies:
 
-- Frontend-focused Full Stack Developer with strong design sensibility  
-- Experience delivering **end-to-end web and mobile applications**  
-- Strong background in **React, React Native, and Next.js**  
-- Comfortable working across frontend, backend, CI/CD, and deployment  
-- Experienced with **remote collaboration**, async workflows, and client communication  
+**Front-End:**  
+JavaScript · TypeScript · React · React Native · Next.js · Tailwind CSS · GSAP · Framer Motion · Three.js  
 
----
+**Back-End & Databases:**  
+Node.js · Express.js · Django · PostgreSQL · MongoDB · Prisma  
 
-## 🧰 Technology Arsenal
+**AI & Advanced Workflows:**  
+OpenAI API · RAG · Vector Embeddings · Inngest · Event-Driven Jobs  
 
-A comprehensive toolkit for building **modern, scalable, and production-ready applications**.
+**Tools & Platforms:**  
+Git · Docker · CI/CD · Google Cloud · Vercel · Figma  
 
-### Languages & Frameworks
-- TypeScript, JavaScript, Python  
-- React, **React Native**, Next.js  
-- Node.js, Express.js, Django  
-
-### AI & Machine Learning
-- OpenAI API  
-- Retrieval-Augmented Generation (RAG)  
-- Vector embeddings  
-- Google Generative AI  
-- OpenRouter API  
-
-### Event-Driven & Background Jobs
-- **Inngest API** (event-driven workflows, background jobs, retries, and observability)
-
-### 3D, Animation & Interactive Experiences
-- Three.js  
-- React Three Fiber  
-- GSAP  
-- Framer Motion  
-
-### Databases & State Management
-- PostgreSQL, MongoDB  
-- Prisma  
-- TanStack Query (React Query)  
-- Zustand  
-
-### DevOps & Cloud
-- Docker  
-- CI/CD pipelines  
-- Google Cloud Platform  
-- Vercel  
-
-### UI, Design Systems & Styling
-- Tailwind CSS  
-- ShadCN UI  
-- Radix UI  
-- DaisyUI  
-- Framer Motion  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,next,nodejs,express,django,postgres,mongodb,docker,gcp,vercel&perline=8" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,next,nodejs,express,django,postgres,mongodb,docker,gcp,vercel&perline=8" />
 </p>
 
----
+🔥 Portfolio:
 
-## 🧑‍💼 Client Work & Professional Experience
+- 🌐 https://kgotso.vercel.app
 
-- Built and maintained **production web and mobile applications**  
-- Designed scalable frontend architectures and API integrations  
-- Implemented background jobs, event-driven workflows, and async processing  
-- Worked with **private repositories, NDAs, and secure deployments**  
-- Collaborated closely with designers, stakeholders, and distributed teams  
+🌱 Currently Learning:
 
----
+- 🤖 Advanced AI integrations and production AI workflows  
+- 🧠 Scalable system design and background processing  
+- 🌐 Web3 development and blockchain-related technologies  
+- 🎨 Interactive & 3D web experiences
 
-## 🔬 Public Engineering Demos
+📫 Connect with Me:
 
-My public repositories focus on **engineering patterns and best practices**, rather than full client products.
+- 📧 Email: kgotsomasha1@gmail.com  
+- 🌐 Portfolio: https://kgotso.vercel.app
 
-Examples include:
-- Frontend architecture & state management patterns  
-- React Native UI components and navigation patterns  
-- Event-driven workflows with background jobs  
-- Animation and interaction experiments  
-- API integration and authentication flows  
+💡 Fun Facts About Me:
 
----
-
-## 🌍 Remote Work & Contracts
-
-- Experienced working with distributed, remote teams  
-- Strong async communication and delivery discipline  
-- Comfortable with deadlines, estimates, and ownership  
-- Available for **remote roles, freelance, and contract work**
-
----
-
-## 🔗 Portfolio & Contact
-
-🌐 **Portfolio:** https://kgotso.vercel.app  
-📧 **Email:** kgotsomasha1@gmail.com  
-
-> 💼 *For detailed case studies and production work, please visit my portfolio.*
+- 🎯 I enjoy building products that balance design and engineering  
+- 🌍 I’ve worked on private, client-owned repositories under NDAs  
+- 🧩 I like clean code, good UX, and solving real-world problems
